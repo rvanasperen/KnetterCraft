@@ -1,0 +1,13 @@
+name = "Packet Fixer"
+filename = "packetfixer-neoforge-3.3.4-26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/pUoH1oJA/packetfixer-neoforge-3.3.4-26.1.jar"
+hash-format = "sha512"
+hash = "f8e2fee6824da494f4ce1a15005ddf069a63e9720977bbd3be59d6af5e53910f4716dbcf0be1f33d2ddad34b47ab77096e1995eb9c4d08b6a3218b24ebaa214e"
+
+[update]
+[update.modrinth]
+mod-id = "c7m1mi73"
+version = "pUoH1oJA"
