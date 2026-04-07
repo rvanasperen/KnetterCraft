@@ -33,6 +33,11 @@ file = "icon.png"
 hash = "abf089fbc8bdbb949a51aad335621913d92b001c4a8a4197c7ea5897bdf4259e"
 
 [[files]]
+file = "mods/anvil-restoration.pw.toml"
+hash = "9a2385a9c6def0f4d3a466d7d6d8477ff330ef7c35890294a2df83b2cf1f4f7d"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "465c5bb547d0b9f87b7573a64f09571d64d3ff43acf2e632f04bd0a6631faf77"
 metafile = true
