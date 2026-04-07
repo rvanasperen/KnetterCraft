@@ -88,6 +88,11 @@ hash = "cea36f1c9dbee662af4d355454f8f877a4cc472ba795c332271c7b8f67336104"
 metafile = true
 
 [[files]]
+file = "mods/inventory-totem.pw.toml"
+hash = "4479a3892fec600085020ad59ba0936d3fc50642051ba2dbc2c37bdbd0410760"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "97309de6f87f5e7554fdd276de8c66e65f1e7a82293188695a2b562472924827"
 metafile = true
