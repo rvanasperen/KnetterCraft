@@ -9,8 +9,8 @@ file = "config/defaultoptions/options.txt"
 hash = "66e0e139736806f8ebccf0809de78cf62381ecca94ea29973d59a41cb3af0714"
 
 [[files]]
-file = "config/jade/jade.json"
-hash = "1d4bce50f71a43d23a95a225a4089207001e0c85c67d1b94fc7d94ae8ece89c6"
+file = "config/jei/jei-mod-id-format.ini"
+hash = "f5ce0b43de011a192dc800495dea16ca9aac9efb01bcc1bd9ac04edff06a5e0f"
 
 [[files]]
 file = "config/neoforge-server.toml"
