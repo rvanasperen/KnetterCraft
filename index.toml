@@ -5,6 +5,11 @@ file = "icon.png"
 hash = "d0ff3306489a93c34853169bdf157bfbfe8b58bf52580e9f20e1d85ce2fd0213"
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "51fa2c64e9cf2d5558a2f1e575960a0a9f9f27f73486d0d679c2bc695eb11026"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "722007a08065b27337e39edbbdb6a34067bbbe523f36a968d9861b9714144368"
 metafile = true
