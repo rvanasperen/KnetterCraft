@@ -20,6 +20,11 @@ hash = "912168a675a7cdc194fbf48ba13ec711dee43e6feb468d29d1a42870ccacd505"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-keybinds.pw.toml"
+hash = "7fd8a3bf94a9d97816b02a487fbcdc84d76bb170246d4870780fdd00c76118ab"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "4daa329acbe2f9aa94cf4ec6b83370c2809ed69ca4e1ac49e7f90576d00f35a7"
 metafile = true
@@ -42,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "722007a08065b27337e39edbbdb6a34067bbbe523f36a968d9861b9714144368"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "47909ee03f4addc160fcaf5dde8a1eb90cadbef00c94758695aea6fbad0162d7"
 metafile = true
 
 [[files]]
