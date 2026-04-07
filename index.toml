@@ -5,6 +5,16 @@ file = "icon.png"
 hash = "d0ff3306489a93c34853169bdf157bfbfe8b58bf52580e9f20e1d85ce2fd0213"
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "97309de6f87f5e7554fdd276de8c66e65f1e7a82293188695a2b562472924827"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2dfc016bcab7d7d93645cebe06a686fe456418d283f38f854bd33c7ead179ed7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
