@@ -151,6 +151,11 @@ hash = "477537759bf6e8214a7f0c1c76e3049542400ae1c3571c0f7838f0b7463346cd"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "71dff51711848e56213b3f6a75dfd7d2aea783b314ccf25741ed274337385f20"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "23f46eb4328e325999cc5172ffd8724425cdc7229d105d3b16cee06508c703b5"
 metafile = true
