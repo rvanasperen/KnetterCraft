@@ -1,0 +1,13 @@
+name = "VoxelMap-Updated"
+filename = "voxelmap-neoforge-26.1-1.16.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wkzK5379/versions/HOwAYwIt/voxelmap-neoforge-26.1-1.16.6.jar"
+hash-format = "sha512"
+hash = "6507e6af66501bb70cdaa8f6f6ee7c43859aa6765f2bb5fdad5af92b126e6dbce515748e4a0941d24268f673ca9c24db4fdcaf2bec67efa47a389f358839ea51"
+
+[update]
+[update.modrinth]
+mod-id = "wkzK5379"
+version = "HOwAYwIt"

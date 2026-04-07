@@ -172,6 +172,11 @@ hash = "2dfc016bcab7d7d93645cebe06a686fe456418d283f38f854bd33c7ead179ed7"
 metafile = true
 
 [[files]]
+file = "mods/voxelmap-updated.pw.toml"
+hash = "c018f8cf71a9d9f458ef5324ce7102f7ce93d0b29cab34f50062f3ef9f5f2d2c"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
