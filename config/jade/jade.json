@@ -11,7 +11,7 @@
     "perspectiveMode": "CAMERA",
     "extendedReach": 0.0,
     "debug": false,
-    "itemModNameTooltip": true,
+    "itemModNameTooltip": false,
     "bossBarOverlapMode": "PUSH_DOWN",
     "builtinCamouflage": true,
     "hideFromTabList": true,

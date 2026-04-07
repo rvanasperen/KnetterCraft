@@ -9,6 +9,10 @@ file = "config/defaultoptions/options.txt"
 hash = "66e0e139736806f8ebccf0809de78cf62381ecca94ea29973d59a41cb3af0714"
 
 [[files]]
+file = "config/jade/jade.json"
+hash = "1d4bce50f71a43d23a95a225a4089207001e0c85c67d1b94fc7d94ae8ece89c6"
+
+[[files]]
 file = "config/neoforge-server.toml"
 hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
 
