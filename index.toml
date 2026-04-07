@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "c967c1fa132962c3fcd5c3c6c2e317e682c9591949dab8dd9668717b6172c13f"
+hash = "f5a68ebb0778a95ea5cf2880a13057d4b8e1e66f2c93c0456bd97acd0717b221"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -31,6 +31,10 @@ hash = "3eb10792d1f0c7e07e7248273540f1952d9a5a2996f4b5df70ab026cd9f05517"
 [[files]]
 file = "config/simplemenu/logo/logo.png"
 hash = "6691e74660d32d3433d8479693710ceb7ffb188e544434050ba72984440e4dcc"
+
+[[files]]
+file = "config/voxelmap.properties"
+hash = "04eb8077bc1a685487a5020a6da6c07f2e2a0fb7b398e70d5d88e1d11e30cf3f"
 
 [[files]]
 file = "icon.png"
