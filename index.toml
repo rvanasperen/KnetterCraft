@@ -91,6 +91,11 @@ hash = "b84e7cb250977781e0420ba7cdadccb8a923de7e0c40f1266e1e6d911f070eef"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "f52baae87b25fd13316a790da63e73c50bd5acf9a81db14585dec2a2cd9adb36"
+metafile = true
+
+[[files]]
 file = "mods/easy-elytra-takeoff.pw.toml"
 hash = "8c9c33f96441e77bf960e7c3a81d0cd54a775027900b9e0896249f67e54a8f75"
 metafile = true
