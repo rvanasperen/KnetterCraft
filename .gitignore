@@ -1,0 +1,12 @@
+# IDE
+.idea/
+.vscode/
+
+# Packwiz cache and temporary files
+.packwizignore
+*.tmp
+
+# Downloaded mods/resources (managed by packwiz)
+mods/
+resourcepacks/
+shaderpacks/
