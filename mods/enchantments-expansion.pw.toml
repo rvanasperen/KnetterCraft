@@ -1,0 +1,13 @@
+name = "Enchantments Expansion"
+filename = "enchantments-expansion-v1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mXL7Z0zq/versions/kjzZws3E/enchantments-expansion-v1.2.0.jar"
+hash-format = "sha512"
+hash = "e8b0815d0ea7e4c5b6ef9d13e1b498b2ea52fc78fc67d59bf270507532da62153915c9676b86b462de65e52f67d033127785fd25c0042e1c27754d5ff37c10d9"
+
+[update]
+[update.modrinth]
+mod-id = "mXL7Z0zq"
+version = "kjzZws3E"
