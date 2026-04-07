@@ -1,0 +1,13 @@
+name = "Default Options"
+filename = "defaultoptions-neoforge-26.1-26.1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/ylZwh8yE/defaultoptions-neoforge-26.1-26.1.0.1.jar"
+hash-format = "sha512"
+hash = "a0c3c4d12c29276ab7bca6fd950f91610c111a7fc0eeeddc48784e38d0bc343fbb57ae48d8c14424686c02528ceea72029c3be6476102b683ef1267cd9d81746"
+
+[update]
+[update.modrinth]
+mod-id = "WEg59z5b"
+version = "ylZwh8yE"

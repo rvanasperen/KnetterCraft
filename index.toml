@@ -5,6 +5,16 @@ file = "icon.png"
 hash = "d0ff3306489a93c34853169bdf157bfbfe8b58bf52580e9f20e1d85ce2fd0213"
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "cc45217af68bc72cf07981414d4b40360aef74f181d30e771a07e5389d996395"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "6ddba275c652f8f87dbbd91044510318017120948209d16ef1c6407566344511"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "97309de6f87f5e7554fdd276de8c66e65f1e7a82293188695a2b562472924827"
 metafile = true
