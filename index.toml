@@ -5,6 +5,16 @@ file = "icon.png"
 hash = "d0ff3306489a93c34853169bdf157bfbfe8b58bf52580e9f20e1d85ce2fd0213"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "4daa329acbe2f9aa94cf4ec6b83370c2809ed69ca4e1ac49e7f90576d00f35a7"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "51fa2c64e9cf2d5558a2f1e575960a0a9f9f27f73486d0d679c2bc695eb11026"
 metafile = true
