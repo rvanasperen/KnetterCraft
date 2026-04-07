@@ -2,5 +2,4 @@
 .idea/
 .vscode/
 
-# Packwiz
-*.mrpack
+README.md
