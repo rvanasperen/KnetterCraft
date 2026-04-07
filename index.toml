@@ -9,6 +9,11 @@ file = "icon.png"
 hash = "d0ff3306489a93c34853169bdf157bfbfe8b58bf52580e9f20e1d85ce2fd0213"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "465c5bb547d0b9f87b7573a64f09571d64d3ff43acf2e632f04bd0a6631faf77"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "cc45217af68bc72cf07981414d4b40360aef74f181d30e771a07e5389d996395"
 metafile = true
