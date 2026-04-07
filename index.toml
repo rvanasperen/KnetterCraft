@@ -5,6 +5,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "c967c1fa132962c3fcd5c3c6c2e317e682c9591949dab8dd9668717b6172c13f"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "66e0e139736806f8ebccf0809de78cf62381ecca94ea29973d59a41cb3af0714"
+
+[[files]]
 file = "config/neoforge-server.toml"
 hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
 
