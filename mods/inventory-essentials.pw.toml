@@ -1,0 +1,13 @@
+name = "Inventory Essentials"
+filename = "inventoryessentials-neoforge-26.1-26.1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Boon8xwi/versions/pom8g4yX/inventoryessentials-neoforge-26.1-26.1.0.2.jar"
+hash-format = "sha512"
+hash = "5babea36d5a8fd3b63faa05d8df560fa615d5b3a2d311014e04a4de52caa0b4ad75481bda4e10bff2d43cb5630dc1d2e6c3362baa640edbcb29a07639d09248c"
+
+[update]
+[update.modrinth]
+mod-id = "Boon8xwi"
+version = "pom8g4yX"

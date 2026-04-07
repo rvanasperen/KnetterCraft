@@ -93,6 +93,11 @@ hash = "4b82094ded9b69ce070356379e2273b3bab666edece9aba7a63eb451742a2777"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "e741cd6147535de16c7c69c39aa693a831097317ba4e20b4bcc14994dcf91906"
+metafile = true
+
+[[files]]
 file = "mods/inventory-mending.pw.toml"
 hash = "cea36f1c9dbee662af4d355454f8f877a4cc472ba795c332271c7b8f67336104"
 metafile = true
