@@ -9,8 +9,28 @@ file = "config/neoforge-server.toml"
 hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
 
 [[files]]
+file = "config/simplemenu.json5"
+hash = "401723a4026e06e75c516405427e6be4fdb6d6108e219cb06221694110562e5a"
+
+[[files]]
+file = "config/simplemenu/icon/icon_16x16.png"
+hash = "ef3c003aca3794c6ba9fee6ef2b1a77ac32e2d51a4f5e8be2f4428c14d59a47e"
+
+[[files]]
+file = "config/simplemenu/icon/icon_32x32.png"
+hash = "515b607437f8e7bca17e98dba0f0b921390b22d6602150a87e3552fbccb157fc"
+
+[[files]]
+file = "config/simplemenu/logo/edition.png"
+hash = "3eb10792d1f0c7e07e7248273540f1952d9a5a2996f4b5df70ab026cd9f05517"
+
+[[files]]
+file = "config/simplemenu/logo/logo.png"
+hash = "6691e74660d32d3433d8479693710ceb7ffb188e544434050ba72984440e4dcc"
+
+[[files]]
 file = "icon.png"
-hash = "d0ff3306489a93c34853169bdf157bfbfe8b58bf52580e9f20e1d85ce2fd0213"
+hash = "abf089fbc8bdbb949a51aad335621913d92b001c4a8a4197c7ea5897bdf4259e"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -30,6 +50,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "7c258846d69d70699d01ece8be13df4bfa70da6da9059eb1c653ade05b3ed7dd"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "0b26b1b2ca165fc3e8f30672ca94e74902ec68fa00f530df91aeef28356a795b"
 metafile = true
 
 [[files]]
@@ -90,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6812d8e4fe1350478e4c9f5f38546e2c6f1f11dca073566dfbb6f8624d41a3e5"
+metafile = true
+
+[[files]]
+file = "mods/simple-menu.pw.toml"
+hash = "5d74584406b3bad68af01172a57109c4d906e33427c51324fbd4c93f4c401a7d"
 metafile = true
 
 [[files]]
