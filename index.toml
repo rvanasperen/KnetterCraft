@@ -1,2 +1,5 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "icon.png"
+hash = "3739e131c659fdf73a7df1ce1fe546777f467fd665be301c997cd6e4d9bbc37b"
