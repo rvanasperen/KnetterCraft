@@ -83,6 +83,11 @@ hash = "acbc87fddd4d09807e4407691f3bc2cd284c1620a60117749e5b7e71da42ef53"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6812d8e4fe1350478e4c9f5f38546e2c6f1f11dca073566dfbb6f8624d41a3e5"
 metafile = true
