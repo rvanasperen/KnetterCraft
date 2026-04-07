@@ -35,6 +35,11 @@ hash = "8bd0d4409b2abd3c06e674be0de2c7529f40605e514f69692e7cdef374bc3a93"
 metafile = true
 
 [[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "660261eedaaf2fe6a8b301ead93d1ea84cacc32236baa806f510c3998dd0bf86"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "722007a08065b27337e39edbbdb6a34067bbbe523f36a968d9861b9714144368"
 metafile = true
