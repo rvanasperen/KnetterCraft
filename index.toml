@@ -235,6 +235,11 @@ hash = "f584d368210201d38bfca37d2573a55a57fce39aa98b6da5c6cbb212fb9f4608"
 metafile = true
 
 [[files]]
+file = "mods/villager-guards.pw.toml"
+hash = "642e1ffdb437eb36a73e144c110aaf6bd2404ca7492ba6249f8e35cbd162d800"
+metafile = true
+
+[[files]]
 file = "mods/voxelmap-updated.pw.toml"
 hash = "c018f8cf71a9d9f458ef5324ce7102f7ce93d0b29cab34f50062f3ef9f5f2d2c"
 metafile = true
