@@ -38,6 +38,11 @@ hash = "6ddba275c652f8f87dbbd91044510318017120948209d16ef1c6407566344511"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-f3.pw.toml"
+hash = "fec8b3c2b49001f4793613a31a01c1bff29571ae67407e18dedcfdb0acbbfc35"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
 metafile = true
