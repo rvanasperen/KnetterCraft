@@ -3,3 +3,8 @@ hash-format = "sha256"
 [[files]]
 file = "icon.png"
 hash = "d0ff3306489a93c34853169bdf157bfbfe8b58bf52580e9f20e1d85ce2fd0213"
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "722007a08065b27337e39edbbdb6a34067bbbe523f36a968d9861b9714144368"
+metafile = true
