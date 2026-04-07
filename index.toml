@@ -216,6 +216,21 @@ hash = "2dfc016bcab7d7d93645cebe06a686fe456418d283f38f854bd33c7ead179ed7"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "72e96fd5ae3aa0423448328524d1f395626550437ac48373508a26962bcb0e42"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "168aecf1feea9019142d740f5d14de45f830813188f602a3e4fbacd7b8807560"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "f584d368210201d38bfca37d2573a55a57fce39aa98b6da5c6cbb212fb9f4608"
+metafile = true
+
+[[files]]
 file = "mods/voxelmap-updated.pw.toml"
 hash = "c018f8cf71a9d9f458ef5324ce7102f7ce93d0b29cab34f50062f3ef9f5f2d2c"
 metafile = true
