@@ -59,6 +59,11 @@ hash = "477537759bf6e8214a7f0c1c76e3049542400ae1c3571c0f7838f0b7463346cd"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "6812d8e4fe1350478e4c9f5f38546e2c6f1f11dca073566dfbb6f8624d41a3e5"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2dfc016bcab7d7d93645cebe06a686fe456418d283f38f854bd33c7ead179ed7"
 metafile = true
