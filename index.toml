@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "f9c18697a62363cd8abf7df569f9132ef3c50f1160fa6ea57e6e8ec747cc199f"
+
+[[files]]
 file = "icon.png"
 hash = "d0ff3306489a93c34853169bdf157bfbfe8b58bf52580e9f20e1d85ce2fd0213"
 
@@ -17,6 +21,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "97309de6f87f5e7554fdd276de8c66e65f1e7a82293188695a2b562472924827"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "88c5d91bfc1dc1005de981b325bc4d0baa0ab30fdaeebf84e80030e9f06538c7"
 metafile = true
 
 [[files]]
