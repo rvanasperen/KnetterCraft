@@ -5,56 +5,6 @@ file = "icon.png"
 hash = "d0ff3306489a93c34853169bdf157bfbfe8b58bf52580e9f20e1d85ce2fd0213"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "8c8f44ed74ea93a496ac1d476ab71b59b0b15a780d5ab60e5559ef637105ee6d"
-metafile = true
-
-[[files]]
-file = "mods/appleskin.pw.toml"
-hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
-metafile = true
-
-[[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "912168a675a7cdc194fbf48ba13ec711dee43e6feb468d29d1a42870ccacd505"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-keybinds.pw.toml"
-hash = "7fd8a3bf94a9d97816b02a487fbcdc84d76bb170246d4870780fdd00c76118ab"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "4daa329acbe2f9aa94cf4ec6b83370c2809ed69ca4e1ac49e7f90576d00f35a7"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "51fa2c64e9cf2d5558a2f1e575960a0a9f9f27f73486d0d679c2bc695eb11026"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "8bd0d4409b2abd3c06e674be0de2c7529f40605e514f69692e7cdef374bc3a93"
-metafile = true
-
-[[files]]
-file = "mods/macos-input-fixes.pw.toml"
-hash = "660261eedaaf2fe6a8b301ead93d1ea84cacc32236baa806f510c3998dd0bf86"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
-hash = "722007a08065b27337e39edbbdb6a34067bbbe523f36a968d9861b9714144368"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "47909ee03f4addc160fcaf5dde8a1eb90cadbef00c94758695aea6fbad0162d7"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+hash = "2dfc016bcab7d7d93645cebe06a686fe456418d283f38f854bd33c7ead179ed7"
 metafile = true
