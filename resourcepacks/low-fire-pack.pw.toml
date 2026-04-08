@@ -1,0 +1,13 @@
+name = "Low Fire"
+filename = "Low Fire.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1jZGHJ05/versions/b2thoYzs/Low%20Fire.zip"
+hash-format = "sha512"
+hash = "a9d711431df2e0d097ace778aabefcf46657c932d579e72110f56132b2b01bfd376a5a28dd16f92ec72ef5d6e461caf8fc82a18282433accc017d169e5b6c1b2"
+
+[update]
+[update.modrinth]
+mod-id = "1jZGHJ05"
+version = "b2thoYzs"

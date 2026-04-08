@@ -396,6 +396,16 @@ hash = "213428b7676adfaa1c59fcfe93e6e7f3d0257e236f32a5a245eb0fc966e1b218"
 metafile = true
 
 [[files]]
+file = "resourcepacks/low-fire-pack.pw.toml"
+hash = "24f2c9af543706a8500c4855cb20ecc0cab9a58f3787d216f180aa72c9ea925c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-shield-pack.pw.toml"
+hash = "9db892d50687ed43255241815656073a61e70c2e42ca017111240414ce6f2e1c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/lullabys-enchantment-artwork.pw.toml"
 hash = "6043d58a540f8a42a3f0047306c697c770d03a351ca97a58a515916884eb6147"
 metafile = true
