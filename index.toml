@@ -69,6 +69,11 @@ hash = "465c5bb547d0b9f87b7573a64f09571d64d3ff43acf2e632f04bd0a6631faf77"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "96d007c571c688a961286c28188343712d8ed3df68c72786cfdf115b0eb6eaac"
+metafile = true
+
+[[files]]
 file = "mods/armor-upgrades.pw.toml"
 hash = "7c642084183aa4f3ae912ba41696937794ef016c657df9e948e6c87b92444c70"
 metafile = true
