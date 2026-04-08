@@ -25,8 +25,6 @@ This also means that you **won't** find:
 - Overly complex magic or tech systems
 - Hundreds of loosely connected mods
 
-In a sense, this is a carefully curated lightweight kitchen sink pack.
-
 ## Design philosophy
 
 Every mod and feature is selected with a clear goal in mind:
