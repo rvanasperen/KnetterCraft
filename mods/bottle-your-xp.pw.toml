@@ -1,6 +1,6 @@
 name = "Bottle Your Xp"
 filename = "bottleyourxp-26.1.0-3.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bG2afBot/versions/Oth91qD5/bottleyourxp-26.1.0-3.5.jar"
