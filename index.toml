@@ -70,6 +70,11 @@ hash = "cc45217af68bc72cf07981414d4b40360aef74f181d30e771a07e5389d996395"
 metafile = true
 
 [[files]]
+file = "mods/bottle-your-xp.pw.toml"
+hash = "f9171b05d9d8d3275a7d4209c13ceedadc526a650ac104d4faff6d4b71928c76"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "d747cfff07ee7029f1f403c9dfb2a4a8ba4ecb9f8d9e6443cc11c7fee679e7e5"
 metafile = true

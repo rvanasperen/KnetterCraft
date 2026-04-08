@@ -1,0 +1,13 @@
+name = "Bottle Your Xp"
+filename = "bottleyourxp-26.1.0-3.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bG2afBot/versions/Oth91qD5/bottleyourxp-26.1.0-3.5.jar"
+hash-format = "sha512"
+hash = "c9c0416a32658bbc6da7e06ca34c56f067ed93326f31ab73f189476dab8c6a442c68d33248f80af68f06cae3f1c3d9d6dd7a69e1314cd4212738d377da8f21a7"
+
+[update]
+[update.modrinth]
+mod-id = "bG2afBot"
+version = "Oth91qD5"
