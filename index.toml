@@ -120,11 +120,6 @@ hash = "efd75e4e3b0493856862145c9c72a4ac8476374faecefd1c3311d338c240366a"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-f3.pw.toml"
-hash = "fec8b3c2b49001f4793613a31a01c1bff29571ae67407e18dedcfdb0acbbfc35"
-metafile = true
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "22e551aa2099c6610e4af5939c7ddc0745d7d221fc8cc20dc00a778ca1bd2371"
 metafile = true
