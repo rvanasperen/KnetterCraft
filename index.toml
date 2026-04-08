@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/actuallyharvest-common.toml"
+hash = "d004d39742ba9b6b3b62bd28d904b35f20543d80ea622ba720380b906e16cd1c"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "b33722fd34c0da4da9ae024b7e277e92808934c403d02932efc74eaa32820b97"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "8d54e6c7dffeeed0f08a4062781be0e85b713818a53ad1319cafa32de4daaba6"
+hash = "205294a1cd52555b6ebbd195819eccfb40c9ff51dca86bb1e9d28de2ffbbaed3"
 
 [[files]]
 file = "config/jei/jei-mod-id-format.ini"
@@ -81,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/bottle-your-xp.pw.toml"
-hash = "f9171b05d9d8d3275a7d4209c13ceedadc526a650ac104d4faff6d4b71928c76"
+hash = "90273e20e528e4e4c93cd53cfe0181ba62e806ad5f286a41e25f7addc8e14ba6"
 metafile = true
 
 [[files]]
