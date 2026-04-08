@@ -1,0 +1,13 @@
+name = "NoDurabilityLost"
+filename = "NoDurabilityLost_NEOFORGE_v1.0.1_mc26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V7dQGgN7/versions/k40DregY/NoDurabilityLost_NEOFORGE_v1.0.1_mc26.1.jar"
+hash-format = "sha512"
+hash = "78c800c1773bafc72f5151ce01f954b533776a3fa65239ed45ef3791bcb5a5d1969a1e1626a55f7e55d361049e9a34a5606769a00cda434ad9a7b4600471b3b5"
+
+[update]
+[update.modrinth]
+mod-id = "V7dQGgN7"
+version = "k40DregY"

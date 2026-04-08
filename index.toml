@@ -210,6 +210,11 @@ hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
 
 [[files]]
+file = "mods/nodurabilitylost.pw.toml"
+hash = "710381f6a8f75cd85711e1bf56e3824aab4b5fb160b1d15b167b93f4d4e6e1cd"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "04df57cb059462cf79bb592f5f96a7e3ed5995ffd189265549aaf7afba40e982"
 metafile = true
