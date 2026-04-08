@@ -35,5 +35,7 @@ Every mod and feature is selected with a clear goal in mind:
     Fewer mods, chosen for how well they work together
 - **Meaningful additions**
     Each feature should solve a problem and add depth, not noise
-- **Low friction gameplay**
+- **Low-friction gameplay**
     No unnecessary grind or complexity barriers
+- **No overpowered early-game**
+    You have to progress and work towards unlocking vein mining, tree harvesting, flight and teleports back to base
