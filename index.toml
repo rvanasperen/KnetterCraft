@@ -140,6 +140,16 @@ hash = "efd75e4e3b0493856862145c9c72a4ac8476374faecefd1c3311d338c240366a"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "f2d5724f50080af92b4d4f763e28bcce76c0e77d01ebcb98dedc25fb2e981b6d"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "928a7dc57e2add94dd458da2d7e40961eacbeda5b20a2cf71e527abe468efca9"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "22e551aa2099c6610e4af5939c7ddc0745d7d221fc8cc20dc00a778ca1bd2371"
 metafile = true
@@ -344,6 +354,11 @@ hash = "bf4123608f785f7963369303666d448b2731b9402b1bc8f69b986f15d24e1be6"
 [[files]]
 file = "resourcepacks/beautiful-enchanted-books.pw.toml"
 hash = "e8294df092a6119798c6bc249bdffed112cbb3390e091f3fee32d400a552eda1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "213428b7676adfaa1c59fcfe93e6e7f3d0257e236f32a5a245eb0fc966e1b218"
 metafile = true
 
 [[files]]

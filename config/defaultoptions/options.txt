@@ -1,3 +1,3 @@
 discrete_mouse_scroll:true
 onboardAccessibility:false
-resourcePacks:["vanilla","mod_resources","file/Beautiful Enchanted Books - MC 1.21.10 - 8.0.0.zip","file/Lullaby\u0027s Enchantment Artwork.zip","file/KnetterCraft Enchanted Books"]
+resourcePacks:["vanilla","mod_resources","file/Beautiful Enchanted Books - MC 1.21.10 - 8.0.0.zip","file/Lullaby\u0027s Enchantment Artwork.zip","file/KnetterCraft Enchanted Books","file/FreshAnimations_v1.10.5.zip"]
