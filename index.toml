@@ -90,6 +90,11 @@ hash = "6ddba275c652f8f87dbbd91044510318017120948209d16ef1c6407566344511"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "6db0aa9766c1a5090c54ab69adb58976131e0cacf4857ef44c006d3221a9fd27"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "b84e7cb250977781e0420ba7cdadccb8a923de7e0c40f1266e1e6d911f070eef"
 metafile = true
