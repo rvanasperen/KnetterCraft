@@ -6,7 +6,7 @@ hash = "f5a68ebb0778a95ea5cf2880a13057d4b8e1e66f2c93c0456bd97acd0717b221"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "66e0e139736806f8ebccf0809de78cf62381ecca94ea29973d59a41cb3af0714"
+hash = "8c0edb67a15e34561a73541b4b8d908d4fc2f977284e7eac0f33e342c105db0b"
 
 [[files]]
 file = "config/jei/jei-mod-id-format.ini"
@@ -252,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/voxelmap-updated.pw.toml"
 hash = "c018f8cf71a9d9f458ef5324ce7102f7ce93d0b29cab34f50062f3ef9f5f2d2c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/lullabys-enchantment-artwork.pw.toml"
+hash = "6043d58a540f8a42a3f0047306c697c770d03a351ca97a58a515916884eb6147"
 metafile = true
 
 [[files]]

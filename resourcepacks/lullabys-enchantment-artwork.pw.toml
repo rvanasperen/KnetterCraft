@@ -1,0 +1,13 @@
+name = "Lullaby's Enchantment Artwork"
+filename = "Lullaby's Enchantment Artwork.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IC1yVTcl/versions/YAz4W910/Lullaby%27s%20Enchantment%20Artwork.zip"
+hash-format = "sha512"
+hash = "fad163a794f7fd6329eb68cb30dc6fc9ffdb8a683a73b795ee4c455a03e45629ba1f8c809c6c77c16f37bb50d71d0024a9f556ad202d86cbf2edd6b865b38130"
+
+[update]
+[update.modrinth]
+mod-id = "IC1yVTcl"
+version = "YAz4W910"
