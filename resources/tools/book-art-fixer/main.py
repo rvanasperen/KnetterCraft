@@ -5,6 +5,11 @@ from dataclasses import dataclass
 from typing import Dict, List, Tuple
 
 
+LULLABY_FIXES = {
+    "minecraft:swiftness": "swiftness_enchantment:swiftness"
+}
+
+
 ROOT = Path(__file__).parent
 
 
@@ -48,6 +53,9 @@ def parse_lullaby(data) -> List[Case]:
         entry = value[0]
 
         enchantment = entry.get("enchantments")
+        if enchantment in LULLABY_FIXES:
+            enchantment = LULLABY_FIXES[enchantment]
+
         levels = entry.get("levels", {})
 
         min_lvl = levels.get("min")

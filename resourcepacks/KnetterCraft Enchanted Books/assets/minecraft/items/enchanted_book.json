@@ -1896,7 +1896,7 @@
       },
       {
         "when": {
-          "minecraft:swiftness": 1
+          "swiftness_enchantment:swiftness": 1
         },
         "model": {
           "type": "minecraft:model",
@@ -1905,7 +1905,7 @@
       },
       {
         "when": {
-          "minecraft:swiftness": 2
+          "swiftness_enchantment:swiftness": 2
         },
         "model": {
           "type": "minecraft:model",
@@ -1914,7 +1914,7 @@
       },
       {
         "when": {
-          "minecraft:swiftness": 3
+          "swiftness_enchantment:swiftness": 3
         },
         "model": {
           "type": "minecraft:model",
@@ -1923,7 +1923,7 @@
       },
       {
         "when": {
-          "minecraft:swiftness": 4
+          "swiftness_enchantment:swiftness": 4
         },
         "model": {
           "type": "minecraft:model",
@@ -1932,7 +1932,7 @@
       },
       {
         "when": {
-          "minecraft:swiftness": 5
+          "swiftness_enchantment:swiftness": 5
         },
         "model": {
           "type": "minecraft:model",
@@ -1941,7 +1941,7 @@
       },
       {
         "when": {
-          "minecraft:swiftness": 6
+          "swiftness_enchantment:swiftness": 6
         },
         "model": {
           "type": "minecraft:model",
@@ -1950,7 +1950,7 @@
       },
       {
         "when": {
-          "minecraft:swiftness": 7
+          "swiftness_enchantment:swiftness": 7
         },
         "model": {
           "type": "minecraft:model",
@@ -1959,7 +1959,7 @@
       },
       {
         "when": {
-          "minecraft:swiftness": 8
+          "swiftness_enchantment:swiftness": 8
         },
         "model": {
           "type": "minecraft:model",
@@ -1968,7 +1968,7 @@
       },
       {
         "when": {
-          "minecraft:swiftness": 9
+          "swiftness_enchantment:swiftness": 9
         },
         "model": {
           "type": "minecraft:model",
@@ -1977,7 +1977,7 @@
       },
       {
         "when": {
-          "minecraft:swiftness": 10
+          "swiftness_enchantment:swiftness": 10
         },
         "model": {
           "type": "minecraft:model",

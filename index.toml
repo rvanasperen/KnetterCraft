@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/KnetterCraft Enchanted Books/assets/minecraft/items/enchanted_book.json"
-hash = "aa02f33d73656e7411ffbfc3c2d68ca3c46c105be18856afedd6c883ecfc2adb"
+hash = "9e293a76c27594b2cbc31fa4400542924c664484ff65d6089b4825e67ca41052"
 
 [[files]]
 file = "resourcepacks/KnetterCraft Enchanted Books/pack.mcmeta"
