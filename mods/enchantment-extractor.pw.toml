@@ -1,0 +1,13 @@
+name = "Enchantment Extractor"
+filename = "enchantment-extractor-v1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xmOjyZLy/versions/ZUzaWHnb/enchantment-extractor-v1.2.4.jar"
+hash-format = "sha512"
+hash = "e346c433eb120784214466be047b659874fbbbd642d2c07de30b1eed29a62f3ff2eda21c6e1009d336a86c8acf59d6079fcd23e910b1a1438a023567688b36f7"
+
+[update]
+[update.modrinth]
+mod-id = "xmOjyZLy"
+version = "ZUzaWHnb"

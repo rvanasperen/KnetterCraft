@@ -120,6 +120,11 @@ hash = "aaa44d334221165e6b1b7ca6fecabe1d3e24bbba2fd890289bad321a8412c1ba"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-extractor.pw.toml"
+hash = "fcb3e169718d6c0f85a2d8df9ce5bbe2874424bdd953d24a5fb8c3bb789e4a95"
+metafile = true
+
+[[files]]
 file = "mods/enchantments-expansion.pw.toml"
 hash = "efd75e4e3b0493856862145c9c72a4ac8476374faecefd1c3311d338c240366a"
 metafile = true
