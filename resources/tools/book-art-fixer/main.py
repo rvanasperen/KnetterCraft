@@ -154,9 +154,6 @@ def build_output(cases: List[Case]):
 def print_summary(name: str, cases: List[Case]):
     print(f"{name}: {len(cases)} cases")
 
-    for c in cases[:5]:
-        print(f"  {c.conditions} -> {c.model}")
-
 
 def detect_conflicts(lullaby_cases: List[Case], beautiful_cases: List[Case]):
     beautiful_map = {case_key(c): c for c in beautiful_cases}
