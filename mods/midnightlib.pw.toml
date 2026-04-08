@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-neoforge-1.9.2+26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/qTM4PAv8/midnightlib-neoforge-1.9.2%2B26.1.jar"
+hash-format = "sha512"
+hash = "c69b91bedee22b87199b6b879c23c2340babd4a959f9f205381ac90c13a766fb43a297aa3a0f19fc1da6778b8dd7fe7560a97d6b2a01807c085c90b6adf7f33b"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "qTM4PAv8"

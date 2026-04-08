@@ -89,6 +89,11 @@ hash = "cc45217af68bc72cf07981414d4b40360aef74f181d30e771a07e5389d996395"
 metafile = true
 
 [[files]]
+file = "mods/blur-plus.pw.toml"
+hash = "2534b6dcc9aa1332d9f893f08553b32d7d1f721bee5effcd13d5d8292f0ba10b"
+metafile = true
+
+[[files]]
 file = "mods/bottle-your-xp.pw.toml"
 hash = "90273e20e528e4e4c93cd53cfe0181ba62e806ad5f286a41e25f7addc8e14ba6"
 metafile = true
@@ -261,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/ly-graves.pw.toml"
 hash = "9071438201ad89a9182f8441b039b767fe06d0db8830e2ff1320e6900a211425"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "e405cbd9f837e58c108b7b692d781c659b474673b177ab159cc665916d29bb83"
 metafile = true
 
 [[files]]
