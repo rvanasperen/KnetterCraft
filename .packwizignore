@@ -2,5 +2,6 @@
 .idea/
 .vscode/
 
-assets/
-README.md
+# Misc
+/assets/
+/README.md

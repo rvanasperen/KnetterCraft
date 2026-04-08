@@ -6,7 +6,7 @@ hash = "b33722fd34c0da4da9ae024b7e277e92808934c403d02932efc74eaa32820b97"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "8c0edb67a15e34561a73541b4b8d908d4fc2f977284e7eac0f33e342c105db0b"
+hash = "8d54e6c7dffeeed0f08a4062781be0e85b713818a53ad1319cafa32de4daaba6"
 
 [[files]]
 file = "config/jei/jei-mod-id-format.ini"
@@ -275,12 +275,16 @@ hash = "c018f8cf71a9d9f458ef5324ce7102f7ce93d0b29cab34f50062f3ef9f5f2d2c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/KnetterCraft Enchanted Books/assets/minecraft/items/enchanted_book.json"
+hash = "0a097e41c2cc2c85a2985c184b7367f06d0dca3593174ff8874533c3a49bd2af"
+
+[[files]]
 file = "resourcepacks/KnetterCraft Enchanted Books/pack.mcmeta"
 hash = "163593f8e1b3c789cfedec7558a8c2d8258769cfc774c6a44e5620e13714b91e"
 
 [[files]]
 file = "resourcepacks/KnetterCraft Enchanted Books/pack.png"
-hash = "515b607437f8e7bca17e98dba0f0b921390b22d6602150a87e3552fbccb157fc"
+hash = "bf4123608f785f7963369303666d448b2731b9402b1bc8f69b986f15d24e1be6"
 
 [[files]]
 file = "resourcepacks/beautiful-enchanted-books.pw.toml"
