@@ -1,6 +1,6 @@
 name = "Inventory Totem"
 filename = "inventorytotem-26.1.0-3.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yQj7xqEM/versions/zWvZBxCh/inventorytotem-26.1.0-3.4.jar"

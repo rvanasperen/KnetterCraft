@@ -1,6 +1,6 @@
 name = "Inventory Mending"
 filename = "inventorymending-26.1.0-1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/y6Ryy40D/versions/8drOrpqK/inventorymending-26.1.0-1.2.jar"

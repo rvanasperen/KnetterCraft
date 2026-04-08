@@ -46,7 +46,7 @@ hash = "abf089fbc8bdbb949a51aad335621913d92b001c4a8a4197c7ea5897bdf4259e"
 
 [[files]]
 file = "mods/anvil-restoration.pw.toml"
-hash = "9a2385a9c6def0f4d3a466d7d6d8477ff330ef7c35890294a2df83b2cf1f4f7d"
+hash = "194c81f73cfb12c5df6c87dd956eef90254a96e0832a0657a3b431eba503244d"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "6db0aa9766c1a5090c54ab69adb58976131e0cacf4857ef44c006d3221a9fd27"
+hash = "be2c0ce187ae94ac5377d3136cced109528d4dca9e5df57929d66f9bb6c9bba2"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-elytra-takeoff.pw.toml"
-hash = "8c9c33f96441e77bf960e7c3a81d0cd54a775027900b9e0896249f67e54a8f75"
+hash = "aaa44d334221165e6b1b7ca6fecabe1d3e24bbba2fd890289bad321a8412c1ba"
 metafile = true
 
 [[files]]
@@ -146,12 +146,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-mending.pw.toml"
-hash = "cea36f1c9dbee662af4d355454f8f877a4cc472ba795c332271c7b8f67336104"
+hash = "a878688987d9d91cea003b5c4b67277b78066771553022e6ea4ecefdb80f08c5"
 metafile = true
 
 [[files]]
 file = "mods/inventory-totem.pw.toml"
-hash = "4479a3892fec600085020ad59ba0936d3fc50642051ba2dbc2c37bdbd0410760"
+hash = "23fd55deda656930d4d71629471907c99bbcb0a02ac6193131c6a25b4db5f6d3"
 metafile = true
 
 [[files]]

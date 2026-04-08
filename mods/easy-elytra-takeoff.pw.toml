@@ -1,6 +1,6 @@
 name = "Easy Elytra Takeoff"
 filename = "easyelytratakeoff-26.1.0-4.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3hqwGCUB/versions/gqYmABWD/easyelytratakeoff-26.1.0-4.5.jar"
