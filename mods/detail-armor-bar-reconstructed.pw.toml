@@ -1,0 +1,13 @@
+name = "Detail Armor Bar Reconstructed"
+filename = "DetailArmorBarReconstructed-5.2.1-26.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Si9Uim4y/versions/ztc3jo1r/DetailArmorBarReconstructed-5.2.1-26.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "a9ab612835c10cd3a73a3ea2211796ec4f65ef9f79bc9501479c3709bd3085ba27cf792a6020a74397013bd9e5eb9b352c7ab079ee7f61f9cec8e41831069a0e"
+
+[update]
+[update.modrinth]
+mod-id = "Si9Uim4y"
+version = "ztc3jo1r"

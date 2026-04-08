@@ -90,6 +90,11 @@ hash = "6ddba275c652f8f87dbbd91044510318017120948209d16ef1c6407566344511"
 metafile = true
 
 [[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "2c7efbe4567d37b260fe41c40331e44eb5466070ed9524f1c12e311623ebe59c"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "6db0aa9766c1a5090c54ab69adb58976131e0cacf4857ef44c006d3221a9fd27"
 metafile = true
