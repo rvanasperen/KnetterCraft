@@ -239,16 +239,6 @@ hash = "1d79247070afb16d68d83344b9e9614bf5420a63f11742ca1a37472f89eb55e0"
 metafile = true
 
 [[files]]
-file = "mods/ly-clumps.pw.toml"
-hash = "3f4c625156d62786a0c2803c8bd07f12ed1bd292949460104970bbe8df9a35a7"
-metafile = true
-
-[[files]]
-file = "mods/ly-fishing-expansion.pw.toml"
-hash = "2c896aca2a6f381a6d2d0935a597f9be61e950d800c00a22fe294560e460f59b"
-metafile = true
-
-[[files]]
 file = "mods/ly-graves.pw.toml"
 hash = "9071438201ad89a9182f8441b039b767fe06d0db8830e2ff1320e6900a211425"
 metafile = true
