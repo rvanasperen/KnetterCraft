@@ -10,7 +10,7 @@ hash = "b33722fd34c0da4da9ae024b7e277e92808934c403d02932efc74eaa32820b97"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "205294a1cd52555b6ebbd195819eccfb40c9ff51dca86bb1e9d28de2ffbbaed3"
+hash = "73209d150305bed8537b4dfb2156b91bbbabdb26430ae7b0404c3591d86e675a"
 
 [[files]]
 file = "config/jei/jei-mod-id-format.ini"
@@ -249,6 +249,11 @@ hash = "477537759bf6e8214a7f0c1c76e3049542400ae1c3571c0f7838f0b7463346cd"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "058e490e55ea8211dff88b34852f53efa09cf115c0c3621b63c77141fd27f0b3"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "1d79247070afb16d68d83344b9e9614bf5420a63f11742ca1a37472f89eb55e0"
 metafile = true
@@ -304,6 +309,11 @@ hash = "6812d8e4fe1350478e4c9f5f38546e2c6f1f11dca073566dfbb6f8624d41a3e5"
 metafile = true
 
 [[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
+metafile = true
+
+[[files]]
 file = "mods/scribble.pw.toml"
 hash = "d047275a3f11b7bb6f46e477e3c99e251c2e59686d1562cf13b2e343fd8f7402"
 metafile = true
@@ -346,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "95b43a62f3ce8b6351e8350238bcd453b22a943aa4baaf728eb6f45f05af57b4"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "409d1f1e30b25f6bacd0d7ae39ab7ce91cf5207c7b6e47b110966a2342f01848"
 metafile = true
 
 [[files]]
