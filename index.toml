@@ -290,6 +290,11 @@ hash = "f584d368210201d38bfca37d2573a55a57fce39aa98b6da5c6cbb212fb9f4608"
 metafile = true
 
 [[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "95b43a62f3ce8b6351e8350238bcd453b22a943aa4baaf728eb6f45f05af57b4"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "a0fba4565ea4490e20349d92596886ce32acfd668acd256ceeabe5e9ff5816b9"
 metafile = true
