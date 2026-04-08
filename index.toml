@@ -275,6 +275,11 @@ hash = "c018f8cf71a9d9f458ef5324ce7102f7ce93d0b29cab34f50062f3ef9f5f2d2c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/beautiful-enchanted-books.pw.toml"
+hash = "e8294df092a6119798c6bc249bdffed112cbb3390e091f3fee32d400a552eda1"
+metafile = true
+
+[[files]]
 file = "resourcepacks/lullabys-enchantment-artwork.pw.toml"
 hash = "6043d58a540f8a42a3f0047306c697c770d03a351ca97a58a515916884eb6147"
 metafile = true

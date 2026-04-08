@@ -1,0 +1,13 @@
+name = "Beautiful Enchanted Books"
+filename = "Beautiful Enchanted Books - MC 1.21.10 - 8.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VDTtLGSV/versions/i6Khd6Js/Beautiful%20Enchanted%20Books%20-%20MC%201.21.10%20-%208.0.0.zip"
+hash-format = "sha512"
+hash = "d71ea1302cc175c233a186e110a8e2398acc152c9dd1fcc037737c0021b69029645fe49f5216f1b3673423408cfbfe8a26d5eaf6aae76f576a838128b4e15a3e"
+
+[update]
+[update.modrinth]
+mod-id = "VDTtLGSV"
+version = "i6Khd6Js"
