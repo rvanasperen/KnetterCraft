@@ -55,6 +55,11 @@ hash = "465c5bb547d0b9f87b7573a64f09571d64d3ff43acf2e632f04bd0a6631faf77"
 metafile = true
 
 [[files]]
+file = "mods/armor-upgrades.pw.toml"
+hash = "7c642084183aa4f3ae912ba41696937794ef016c657df9e948e6c87b92444c70"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "23ae742803c31b4c03add35d3481eead4e01db57df5f25356214d0c0cf57888d"
 metafile = true
@@ -232,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6812d8e4fe1350478e4c9f5f38546e2c6f1f11dca073566dfbb6f8624d41a3e5"
+metafile = true
+
+[[files]]
+file = "mods/shield-upgrades.pw.toml"
+hash = "4afb766d063c2371be179d6c6039edf114445c439f5d7726338780a2e5521e6b"
 metafile = true
 
 [[files]]

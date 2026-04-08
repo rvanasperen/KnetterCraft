@@ -1,0 +1,13 @@
+name = "Armor Upgrades"
+filename = "armor-upgrades-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTPpAg1Z/versions/ND3azNBf/armor-upgrades-1.0.5.jar"
+hash-format = "sha512"
+hash = "5d81f861010b65366bd02a2da26bbe4c273c5fce856fb96ff13981c94ff94f704bf6ef203541a53d4b41ad65cc65fd608b0c8edf28387800a355023105d3223f"
+
+[update]
+[update.modrinth]
+mod-id = "LTPpAg1Z"
+version = "ND3azNBf"
