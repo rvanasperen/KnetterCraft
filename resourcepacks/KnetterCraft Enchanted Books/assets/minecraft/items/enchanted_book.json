@@ -1,0 +1,30 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:stored_enchantments",
+    "cases": [
+      {
+        "when": { "minecraft:aqua_affinity": 1 },
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/enchanted_books/minecraft/aqua_affinity"
+        }
+      },
+      {
+        "when": [
+          { "agility_enchantment:agility": 1 },
+          { "agility_enchantment:agility": 2 }
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "lullaby:item/agility"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/enchanted_book"
+    }
+  }
+}
