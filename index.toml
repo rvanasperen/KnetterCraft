@@ -50,6 +50,11 @@ hash = "941a024adcccefa7fbf0214732c2d59f8310ded66d70279a69fec80f6139ff7a"
 metafile = true
 
 [[files]]
+file = "mods/advancements-reloaded.pw.toml"
+hash = "8a5d5779f70caa4d3bef8e6cbbf03d4c487e287b1c64e275734be5e9d0e14822"
+metafile = true
+
+[[files]]
 file = "mods/anvil-restoration.pw.toml"
 hash = "194c81f73cfb12c5df6c87dd956eef90254a96e0832a0657a3b431eba503244d"
 metafile = true

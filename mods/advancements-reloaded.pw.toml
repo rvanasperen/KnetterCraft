@@ -1,0 +1,13 @@
+name = "Advancements Reloaded (AdvancementInfo)"
+filename = "advancements_reloaded-0.13.0-neoforge-26.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tLuRLqpa/versions/Cn7F08Yi/advancements_reloaded-0.13.0-neoforge-26.1.1.jar"
+hash-format = "sha512"
+hash = "9715a7b06935dbbbd948e7e893a2adf5f9db2cc633fc18c86db6a951b9a40d869cba7fffdd64857c288d83a79740aab0cf43d7c63a8b6595a045d95f702e3de6"
+
+[update]
+[update.modrinth]
+mod-id = "tLuRLqpa"
+version = "Cn7F08Yi"
