@@ -75,11 +75,6 @@ hash = "7c258846d69d70699d01ece8be13df4bfa70da6da9059eb1c653ade05b3ed7dd"
 metafile = true
 
 [[files]]
-file = "mods/clumps.pw.toml"
-hash = "1bf362abe2a83cb9845e5924d1cf3e29685db56fafdd465a321d05277a41bc4d"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "0b26b1b2ca165fc3e8f30672ca94e74902ec68fa00f530df91aeef28356a795b"
 metafile = true
@@ -172,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "71dff51711848e56213b3f6a75dfd7d2aea783b314ccf25741ed274337385f20"
+metafile = true
+
+[[files]]
+file = "mods/ly-clumps.pw.toml"
+hash = "3f4c625156d62786a0c2803c8bd07f12ed1bd292949460104970bbe8df9a35a7"
 metafile = true
 
 [[files]]
