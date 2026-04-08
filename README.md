@@ -2,8 +2,6 @@
 
 > A lightweight vanilla+ modpack that seeks to enhance the core Minecraft gameplay experience without changing its identity.
 
----
-
 ## Highlights
 
 - Expanded building and decoration options
@@ -12,8 +10,6 @@
 - Performance-friendly and streamlined
 - Carefully curated mod configurations and keybindings
 - Steam Deck supported
-
----
 
 ## What this modpack is
 
@@ -31,8 +27,6 @@ This also means that you **won't** find:
 
 In a sense, this is a carefully curated lightweight kitchen sink pack.
 
----
-
 ## Design philosophy
 
 Every mod and feature is selected with a clear goal in mind:
@@ -45,5 +39,3 @@ Every mod and feature is selected with a clear goal in mind:
     Each feature should solve a problem and add depth, not noise
 - **Low friction gameplay**
     No unnecessary grind or complexity barriers
-
----
