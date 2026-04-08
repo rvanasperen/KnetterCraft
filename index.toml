@@ -22,11 +22,11 @@ hash = "401723a4026e06e75c516405427e6be4fdb6d6108e219cb06221694110562e5a"
 
 [[files]]
 file = "config/simplemenu/icon/icon_16x16.png"
-hash = "ef3c003aca3794c6ba9fee6ef2b1a77ac32e2d51a4f5e8be2f4428c14d59a47e"
+hash = "b3a93052734bd1fb9ebdc11c13671ffbe1c9d91b07b0c4523611e9ffe34b1241"
 
 [[files]]
 file = "config/simplemenu/icon/icon_32x32.png"
-hash = "515b607437f8e7bca17e98dba0f0b921390b22d6602150a87e3552fbccb157fc"
+hash = "52aa22ef16d41562cfe66dc1a37b77227035676bfce544633b7bda7d1491ab6a"
 
 [[files]]
 file = "config/simplemenu/logo/edition.png"
@@ -34,7 +34,7 @@ hash = "3eb10792d1f0c7e07e7248273540f1952d9a5a2996f4b5df70ab026cd9f05517"
 
 [[files]]
 file = "config/simplemenu/logo/logo.png"
-hash = "6691e74660d32d3433d8479693710ceb7ffb188e544434050ba72984440e4dcc"
+hash = "490560edaed4d8e40a47dcad772f66f36eaad7b48f3bea62ffbe697c29c35bac"
 
 [[files]]
 file = "config/voxelmap.properties"
@@ -42,7 +42,7 @@ hash = "04eb8077bc1a685487a5020a6da6c07f2e2a0fb7b398e70d5d88e1d11e30cf3f"
 
 [[files]]
 file = "icon.png"
-hash = "abf089fbc8bdbb949a51aad335621913d92b001c4a8a4197c7ea5897bdf4259e"
+hash = "4dd805f958e48a2357d70c8bb9bbfb0f3d759102985bb4ef44af5d470599cd61"
 
 [[files]]
 file = "mods/anvil-restoration.pw.toml"
@@ -273,10 +273,6 @@ metafile = true
 file = "mods/voxelmap-updated.pw.toml"
 hash = "c018f8cf71a9d9f458ef5324ce7102f7ce93d0b29cab34f50062f3ef9f5f2d2c"
 metafile = true
-
-[[files]]
-file = "resourcepacks/KnetterCraft Enchanted Books/assets/minecraft/items/enchanted_book.json"
-hash = "0a097e41c2cc2c85a2985c184b7367f06d0dca3593174ff8874533c3a49bd2af"
 
 [[files]]
 file = "resourcepacks/KnetterCraft Enchanted Books/pack.mcmeta"
