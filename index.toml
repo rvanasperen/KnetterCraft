@@ -165,6 +165,11 @@ hash = "97309de6f87f5e7554fdd276de8c66e65f1e7a82293188695a2b562472924827"
 metafile = true
 
 [[files]]
+file = "mods/ismah.pw.toml"
+hash = "01cc46c12337024ab4b4460d115ec7ba90d1fb2bfee35a1d052220a9ecbcd612"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "8c062ac8771f09db2c553d66a6f4572701c7ce2bead8d9295761518ba93d868f"
 metafile = true

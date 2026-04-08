@@ -1,0 +1,13 @@
+name = "I See My Armored Hand"
+filename = "ismah-neoforge-26.1-5.4.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o0hnW3gN/versions/klANsIGl/ismah-neoforge-26.1-5.4.2.jar"
+hash-format = "sha512"
+hash = "c051eeeedfd42b32d63f564f65299534b1e5a983ab94e4d1da9b728965ccc19c52e5ccc4f77f475e37608afa15d9e15cd7a2700927f5638dca769edfb7aca3cf"
+
+[update]
+[update.modrinth]
+mod-id = "o0hnW3gN"
+version = "klANsIGl"
