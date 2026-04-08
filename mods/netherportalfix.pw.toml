@@ -1,0 +1,13 @@
+name = "NetherPortalFix"
+filename = "netherportalfix-neoforge-26.1-26.1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/nPZr02ET/versions/LZvvZ7zS/netherportalfix-neoforge-26.1-26.1.0.1.jar"
+hash-format = "sha512"
+hash = "9b8f31aeebf0be0acaf11f3eb4445f75df977a3aa93eb79d8f6423558015a5bd34732525a4a7cd7ba02d9b966207f3ad00cfced3f5a466c1fa06c3cae2fa080f"
+
+[update]
+[update.modrinth]
+mod-id = "nPZr02ET"
+version = "LZvvZ7zS"
