@@ -1,4 +1,4 @@
-![KnetterCraft](config/simplemenu/logo/logo.png)
+![KnetterCraft](assets/banner_orig.png)
 
 > A lightweight vanilla+ modpack that seeks to enhance the core Minecraft gameplay experience without changing its identity.
 
