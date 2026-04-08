@@ -280,6 +280,11 @@ hash = "a0fba4565ea4490e20349d92596886ce32acfd668acd256ceeabe5e9ff5816b9"
 metafile = true
 
 [[files]]
+file = "mods/useful-snow-golems.pw.toml"
+hash = "ce3c915768f1c4f900049500b6470d3f108fc21a44e83f4b8abf4dc3e9445228"
+metafile = true
+
+[[files]]
 file = "mods/villager-guards.pw.toml"
 hash = "642e1ffdb437eb36a73e144c110aaf6bd2404ca7492ba6249f8e35cbd162d800"
 metafile = true

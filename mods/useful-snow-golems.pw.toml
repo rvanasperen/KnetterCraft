@@ -1,0 +1,13 @@
+name = "Useful Snow Golems"
+filename = "useful-snow-golems-v1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bFQOsc16/versions/urEfd5F6/useful-snow-golems-v1.0.2.jar"
+hash-format = "sha512"
+hash = "d5d75f3a2d31ad93c78f5a334f2381d9ef676bc9921de28c5fa48ded97658532ad39596bad05acc1c7c07fba490c690ba77de96516795aa6f2b4bd94c6ea7dc9"
+
+[update]
+[update.modrinth]
+mod-id = "bFQOsc16"
+version = "urEfd5F6"
