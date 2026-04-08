@@ -194,6 +194,11 @@ hash = "dcb565c37c323b5c2a98594ffbd6ade703368e5379738c85be31fcb0a5f415b0"
 metafile = true
 
 [[files]]
+file = "mods/foodeffecttooltips.pw.toml"
+hash = "3c11ae9ce54d8a69ae53546934b0853ab29c691024dd33ca36aa90acb82e39f9"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "d48656fe125fc0c09de11568946cbc4e66f3d5e888a7c32b70e5e529fbb20205"
 metafile = true

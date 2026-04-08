@@ -1,0 +1,13 @@
+name = "Food Effect Tooltips [Fabric / NeoForge]"
+filename = "FoodEffectTooltips-2.1.2+26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GGfyJWnG/versions/znxxRVTP/FoodEffectTooltips-2.1.2%2B26.1.jar"
+hash-format = "sha512"
+hash = "cd762ec3d772afc3239b319ed1025f5c16b966f47d0e32f65e8788d83672d24a73c9439ed611399e1fd696da71bda69ddbed6277e381ef6a888597c5bd312c0c"
+
+[update]
+[update.modrinth]
+mod-id = "GGfyJWnG"
+version = "znxxRVTP"
