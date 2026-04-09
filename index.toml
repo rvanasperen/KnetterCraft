@@ -254,11 +254,6 @@ hash = "477537759bf6e8214a7f0c1c76e3049542400ae1c3571c0f7838f0b7463346cd"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "66b1304b7f00fd062005895ebfd6443848a47b493cad60a8748245f36e423626"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "1d79247070afb16d68d83344b9e9614bf5420a63f11742ca1a37472f89eb55e0"
 metafile = true
@@ -376,11 +371,6 @@ metafile = true
 [[files]]
 file = "mods/stormies-spiders.pw.toml"
 hash = "224a317b7f105d4971dbbc1eb9fcd976a74412f7ee3d240029d97d15309e0778"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "409d1f1e30b25f6bacd0d7ae39ab7ce91cf5207c7b6e47b110966a2342f01848"
 metafile = true
 
 [[files]]
