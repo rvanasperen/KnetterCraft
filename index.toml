@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/datapatched.pw.toml"
-hash = "e90ed7bffdd73ace2aa0c92c7ced10947a2eb3d1f5c2ce14b468f03d14e4e77d"
+hash = "4ae1e6c12b0d2721daa66bc835fc0d30e6305d27b0de161687ad61f571d2d0fb"
 metafile = true
 
 [[files]]
