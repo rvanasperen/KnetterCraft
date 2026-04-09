@@ -309,6 +309,11 @@ hash = "04df57cb059462cf79bb592f5f96a7e3ed5995ffd189265549aaf7afba40e982"
 metafile = true
 
 [[files]]
+file = "mods/pyrite.pw.toml"
+hash = "fe5d4d3af6b54e45f748feae434b9cc48956248834c3f348d1dd428611b78235"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6812d8e4fe1350478e4c9f5f38546e2c6f1f11dca073566dfbb6f8624d41a3e5"
 metafile = true

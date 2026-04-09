@@ -1,0 +1,13 @@
+name = "Pyrite"
+filename = "pyrite-0.17.1+26.1.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qO4ozPoe/versions/NTBXs2jG/pyrite-0.17.1%2B26.1.1-neoforge.jar"
+hash-format = "sha512"
+hash = "bfa2bfef1d6c3b97cf21bdfd37ace046d41f5e256224bda1043b6db03d74942188188c1d93693ba9ea4d892fd105554d2990c975363a4b8233dcd35b44121d2b"
+
+[update]
+[update.modrinth]
+mod-id = "qO4ozPoe"
+version = "NTBXs2jG"
