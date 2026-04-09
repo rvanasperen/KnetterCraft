@@ -1,0 +1,13 @@
+name = "Datapatched"
+filename = "datapatched-2.2.0-neoforge-26.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7XXwJbHD/versions/l0lu6mnv/datapatched-2.2.0-neoforge-26.1.jar"
+hash-format = "sha512"
+hash = "6e1c2a7f8866572327ab51f29417c68dd34adc512276bd429cbcb3e661514e1e5a0b76c9cae2fe6e6239af026ca56d6e1e825fac81f4976c0277a734b8af69af"
+
+[update]
+[update.modrinth]
+mod-id = "7XXwJbHD"
+version = "l0lu6mnv"

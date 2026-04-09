@@ -144,6 +144,11 @@ hash = "8bee3fd21550fa1ca826219a3d67439f36f187ff70e47ebeebbfa0a7ba140ca2"
 metafile = true
 
 [[files]]
+file = "mods/datapatched.pw.toml"
+hash = "e90ed7bffdd73ace2aa0c92c7ced10947a2eb3d1f5c2ce14b468f03d14e4e77d"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "6ddba275c652f8f87dbbd91044510318017120948209d16ef1c6407566344511"
 metafile = true
@@ -566,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/toolbar-sounds.pw.toml"
 hash = "40247482cfe23d3dff26ea8ebf12688893df94a7587fbff8a830d01a08d1131b"
+metafile = true
+
+[[files]]
+file = "mods/trimmable-tools.pw.toml"
+hash = "b45c88c148100aa9d0a4c23671aaf7307ff587de16a08216698af16b144d3419"
 metafile = true
 
 [[files]]
