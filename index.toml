@@ -174,6 +174,11 @@ hash = "60d6b4623008c1e6433259493b2ab6657a61164ad0aa0e36db8a1513437dca2a"
 metafile = true
 
 [[files]]
+file = "mods/dungeons+.pw.toml"
+hash = "550a6c6f32414eb44e4ad687d387d4b9770c15244fa7a3643a15d06037bd6e92"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "cb6d8758b31594a79a47766c51d558a352465c6301fb8d0739fed1c6cf2af2f7"
 metafile = true
@@ -321,6 +326,61 @@ metafile = true
 [[files]]
 file = "mods/ly-graves.pw.toml"
 hash = "9071438201ad89a9182f8441b039b767fe06d0db8830e2ff1320e6900a211425"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "315bd2ea51def6c2ce62f7e103f65b5f4426fe20e4026eede1ac5f1ba947dc89"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "711e5b1653e51dee63555ffcce52688e2e5526ba6e1f3d2ade84421af0f31e1d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "0216479142e7ade6cff4b7e6f4b49a48b5514b26713c9843b3ab91d483c046e2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "83c9c92233e12cc2b70928c8465baa75d0b67343eafd77825160bf3301d2e79b"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "406d47066044a04d1fd2ff46419982b8065986749e13f5c60bdc4543789cbcd1"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "5a23a2fcf5ca8dbc77fc4fc1c1f42f443bf889e2d14d96cdc9704770f735cd60"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "1a81cf24017e281cfe8ebe5c99d2e218beaf30f410b16a380b7f80fc8a79ecd2"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "514d7a59264c10617e7d3646e4baa1c072e173aefefefec564e1735d029fb242"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "3f03f58db4463888ba40220e866323c98da3c6420c206eb55ae7ee32a0058c02"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "85b6d9ad2ab6c4330174e2d967d3ee43dabc23e7a0e560559f0f204bf171a2a6"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "279c5b62a01a864c5423ca747acbb2221d61c5b19c4f0b5018f99fc7f1458974"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Macaw's Paths and Pavings"
+filename = "mcw-paths-1.1.1-mc26.1neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VRLhWB91/versions/5uiuhaEh/mcw-paths-1.1.1-mc26.1neoforge.jar"
+hash-format = "sha512"
+hash = "dcae6ac82646eaba9f449f2b81890602c354a1e20a56ecd2e6563abc1fbadbf20796df525ad0480cd78872b4da33f6dbba83839dea6b19e237703cb81a7586c3"
+
+[update]
+[update.modrinth]
+mod-id = "VRLhWB91"
+version = "5uiuhaEh"

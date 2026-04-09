@@ -1,0 +1,13 @@
+name = "Dungeons+"
+filename = "dungeons+-1.11.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nHORcEHd/versions/QPE90ql7/dungeons%2B-1.11.1.jar"
+hash-format = "sha512"
+hash = "ea19c15ee1c0dd1e2b41d673f863666dc96792b7bb22e8c264363be3a8251074f09af9bc1cbfe3e94bb7cdfaf77da82564221086498f4cd2edd1b920f329d207"
+
+[update]
+[update.modrinth]
+mod-id = "nHORcEHd"
+version = "QPE90ql7"

@@ -1,0 +1,13 @@
+name = "Macaw's Windows"
+filename = "mcw-windows-2.4.2-mc26.1neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/LeFUseF5/mcw-windows-2.4.2-mc26.1neoforge.jar"
+hash-format = "sha512"
+hash = "9f84c47e1bf068df9c751908ebe521e97d8b676f9cb0cf17ebbbc91f534794d6f16c4f8d43299f6b1591b8a5f780c25fb5c3938b0583ebfcd3c4d9b21e86e8b5"
+
+[update]
+[update.modrinth]
+mod-id = "C7I0BCni"
+version = "LeFUseF5"

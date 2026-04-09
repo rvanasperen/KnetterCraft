@@ -1,0 +1,13 @@
+name = "Macaw's Fences and Walls"
+filename = "mcw-fences-1.2.1-mc26.1neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GmwLse2I/versions/GRlsvpLQ/mcw-fences-1.2.1-mc26.1neoforge.jar"
+hash-format = "sha512"
+hash = "5755057a4a25a4ff6478333af7122af29d814a6e99194bfa704a2d44c69605ff459dd2ce68631b602893696323040f0bbb6bbe7a57b88c6f4407b389d5f3ca2c"
+
+[update]
+[update.modrinth]
+mod-id = "GmwLse2I"
+version = "GRlsvpLQ"
