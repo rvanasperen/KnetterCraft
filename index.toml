@@ -389,6 +389,11 @@ hash = "a0fba4565ea4490e20349d92596886ce32acfd668acd256ceeabe5e9ff5816b9"
 metafile = true
 
 [[files]]
+file = "mods/toolbar-sounds.pw.toml"
+hash = "40247482cfe23d3dff26ea8ebf12688893df94a7587fbff8a830d01a08d1131b"
+metafile = true
+
+[[files]]
 file = "mods/useful-snow-golems.pw.toml"
 hash = "ce3c915768f1c4f900049500b6470d3f108fc21a44e83f4b8abf4dc3e9445228"
 metafile = true
