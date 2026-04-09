@@ -114,6 +114,11 @@ hash = "d747cfff07ee7029f1f403c9dfb2a4a8ba4ecb9f8d9e6443cc11c7fee679e7e5"
 metafile = true
 
 [[files]]
+file = "mods/classic-pipes.pw.toml"
+hash = "3b0bcc42f7a20d7b11b66dfc39f6e77dea4a36abb75564003a220a45b270fed4"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "7c258846d69d70699d01ece8be13df4bfa70da6da9059eb1c653ade05b3ed7dd"
 metafile = true
