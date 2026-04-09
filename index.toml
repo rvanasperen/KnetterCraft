@@ -374,6 +374,11 @@ hash = "95b43a62f3ce8b6351e8350238bcd453b22a943aa4baaf728eb6f45f05af57b4"
 metafile = true
 
 [[files]]
+file = "mods/stormies-spiders.pw.toml"
+hash = "224a317b7f105d4971dbbc1eb9fcd976a74412f7ee3d240029d97d15309e0778"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "409d1f1e30b25f6bacd0d7ae39ab7ce91cf5207c7b6e47b110966a2342f01848"
 metafile = true
