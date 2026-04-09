@@ -42,7 +42,7 @@ hash = "490560edaed4d8e40a47dcad772f66f36eaad7b48f3bea62ffbe697c29c35bac"
 
 [[files]]
 file = "config/voxelmap.properties"
-hash = "67ef7bf3e8186134410155846fadb3f69f1d56e6a9ae60c2d6e07dd395230e2c"
+hash = "8e37fe954c0bf11d1bdecd1256f1b18a1482fa2ee5b4d5993e767dfb244edb32"
 
 [[files]]
 file = "icon.png"
@@ -71,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "96d007c571c688a961286c28188343712d8ed3df68c72786cfdf115b0eb6eaac"
+metafile = true
+
+[[files]]
+file = "mods/areas.pw.toml"
+hash = "a886a5baea74cad4839c558213c78c3e549a9ad703cf5b34c9ab578be625d2ea"
 metafile = true
 
 [[files]]
@@ -129,6 +134,11 @@ hash = "67f3a94c37d0c780a2efa3a07c040ba28a96d666b67ad70aa309880d03156b36"
 metafile = true
 
 [[files]]
+file = "mods/crying-portals.pw.toml"
+hash = "8bee3fd21550fa1ca826219a3d67439f36f187ff70e47ebeebbfa0a7ba140ca2"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "6ddba275c652f8f87dbbd91044510318017120948209d16ef1c6407566344511"
 metafile = true
@@ -139,8 +149,18 @@ hash = "2c7efbe4567d37b260fe41c40331e44eb5466070ed9524f1c12e311623ebe59c"
 metafile = true
 
 [[files]]
+file = "mods/dismount-entity.pw.toml"
+hash = "0418408775dd832e8472213299c35d767a5b3d008d0c45db246468665a51a8ba"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "be2c0ce187ae94ac5377d3136cced109528d4dca9e5df57929d66f9bb6c9bba2"
+metafile = true
+
+[[files]]
+file = "mods/dragon-drops-elytra.pw.toml"
+hash = "50a7a227202c75bce9352329ea775551a9c2ae9246c9e8cd3a4627a087bb6e30"
 metafile = true
 
 [[files]]
@@ -204,6 +224,16 @@ hash = "ecd9e70faca5584f8cb488905c333f9eeef03193674f03692a7bb32f1283fcdc"
 metafile = true
 
 [[files]]
+file = "mods/fish-on-the-line.pw.toml"
+hash = "8ec8907f6cf0c83e4ae9ad8939617d60fdfb79b0d3da96e9387f406e40da4470"
+metafile = true
+
+[[files]]
+file = "mods/fixed-anvil-repair-cost.pw.toml"
+hash = "846f4a4d03c77cd5c090e6f00e6500ed296a27994df9cdee129d05fb23fe447c"
+metafile = true
+
+[[files]]
 file = "mods/flight-enchantment.pw.toml"
 hash = "dcb565c37c323b5c2a98594ffbd6ade703368e5379738c85be31fcb0a5f415b0"
 metafile = true
@@ -219,8 +249,23 @@ hash = "d48656fe125fc0c09de11568946cbc4e66f3d5e888a7c32b70e5e529fbb20205"
 metafile = true
 
 [[files]]
+file = "mods/healing-campfire.pw.toml"
+hash = "26dd56d562ecbbae1a198754f1e6d53adcd377462a2ec58560e6fbd2892f30f0"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4b82094ded9b69ce070356379e2273b3bab666edece9aba7a63eb451742a2777"
+metafile = true
+
+[[files]]
+file = "mods/improved-sign-editing.pw.toml"
+hash = "37bdcd248f45e8e141961d9679844c7cb431dbc97bb6c00ed13053bc7d70890a"
+metafile = true
+
+[[files]]
+file = "mods/infinite-trading.pw.toml"
+hash = "4d8c287a5b68b7dc8733b93b4c96321fe7560df35d9c63d7f18d4072f58f13d1"
 metafile = true
 
 [[files]]
@@ -279,6 +324,11 @@ hash = "e405cbd9f837e58c108b7b692d781c659b474673b177ab159cc665916d29bb83"
 metafile = true
 
 [[files]]
+file = "mods/mooshroom-tweaks.pw.toml"
+hash = "08181904760d86b6acdf087eaa5f18655d0fe3b66ec93421528f440fca8bcf46"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "23f46eb4328e325999cc5172ffd8724425cdc7229d105d3b16cee06508c703b5"
 metafile = true
@@ -304,6 +354,11 @@ hash = "acbc87fddd4d09807e4407691f3bc2cd284c1620a60117749e5b7e71da42ef53"
 metafile = true
 
 [[files]]
+file = "mods/no-hostiles-around-campfire.pw.toml"
+hash = "d3817a2aca43829034b953f2a48f57538456b53fc23045128eb05fd31b0509d7"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
 metafile = true
@@ -319,8 +374,23 @@ hash = "04df57cb059462cf79bb592f5f96a7e3ed5995ffd189265549aaf7afba40e982"
 metafile = true
 
 [[files]]
+file = "mods/pet-names.pw.toml"
+hash = "16659fb4bb19575022c6d9d152443d9059e8fbdce98a4c1a7df90ad87b89bade"
+metafile = true
+
+[[files]]
 file = "mods/pyrite.pw.toml"
 hash = "fe5d4d3af6b54e45f748feae434b9cc48956248834c3f348d1dd428611b78235"
+metafile = true
+
+[[files]]
+file = "mods/random-village-names.pw.toml"
+hash = "111c6430e330620ecb0a8595c25cb9d513fa1f8a7f26d2ecfea376266bb90a33"
+metafile = true
+
+[[files]]
+file = "mods/realistic-bees.pw.toml"
+hash = "da510a382e801712756903497f87823d10ab03ffda700d44944d71af02f57c70"
 metafile = true
 
 [[files]]
@@ -331,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "fab063c932f1c37fd2be72e116ea07018ad5657220b36345fe6999e404a7ac75"
 metafile = true
 
 [[files]]
@@ -349,8 +424,23 @@ hash = "4afb766d063c2371be179d6c6039edf114445c439f5d7726338780a2e5521e6b"
 metafile = true
 
 [[files]]
+file = "mods/shulker-drops-two.pw.toml"
+hash = "4ea756acd2a39a9bb26f4370da350b7b138a3958f29539663783504f1debfd3f"
+metafile = true
+
+[[files]]
 file = "mods/simple-menu.pw.toml"
 hash = "5d74584406b3bad68af01172a57109c4d906e33427c51324fbd4c93f4c401a7d"
+metafile = true
+
+[[files]]
+file = "mods/skeleton-horse-spawn.pw.toml"
+hash = "e936d2fcd1a37c1afe9e8fa563a7e94772a1d1434e1fb873f521be2a3a302cd3"
+metafile = true
+
+[[files]]
+file = "mods/sleep-sooner.pw.toml"
+hash = "fa3a719e2101420861f0c0c6d3b3dadca462472251a37d2f352d22cb4d3163c9"
 metafile = true
 
 [[files]]
@@ -361,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "2dfc016bcab7d7d93645cebe06a686fe456418d283f38f854bd33c7ead179ed7"
+metafile = true
+
+[[files]]
+file = "mods/softer-hay-bales.pw.toml"
+hash = "958bdcb7ee5494a4e33a9ccc1fd9580e3c37daad792a976a7bd3d1f7895a7d2a"
 metafile = true
 
 [[files]]
@@ -416,6 +511,16 @@ metafile = true
 [[files]]
 file = "mods/warpstones.pw.toml"
 hash = "61d56616a1b8256c343998656826b917ada291689834f318167b148c6e264748"
+metafile = true
+
+[[files]]
+file = "mods/weaker-spiderwebs.pw.toml"
+hash = "6008818746bba3c2c3c0ceb3cf06febc48ec4c25f8e027fadb09bb610aec0da9"
+metafile = true
+
+[[files]]
+file = "mods/zombie-horse-spawn.pw.toml"
+hash = "79f4b3b1a3d65de0b7a839efd07834594cfdd928b0089fad6ceb93bddcd27a59"
 metafile = true
 
 [[files]]

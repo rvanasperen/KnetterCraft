@@ -1,0 +1,13 @@
+name = "Dismount Entity"
+filename = "dismountentity-26.1.0-3.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H7N61Wcl/versions/DZnk67sl/dismountentity-26.1.0-3.6.jar"
+hash-format = "sha512"
+hash = "b671ba261abd01833b7bbe15f67f14b7d8d8344dffd63ceccdc482c48563ef670f05866e510c9925a01f334590452546aa0cfae64335c2f3910c98f37ca8409f"
+
+[update]
+[update.modrinth]
+mod-id = "H7N61Wcl"
+version = "DZnk67sl"

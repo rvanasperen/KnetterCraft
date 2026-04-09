@@ -1,0 +1,13 @@
+name = "Pet Names"
+filename = "petnames-26.1.0-3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tOoh2eQm/versions/9SfGWriU/petnames-26.1.0-3.5.jar"
+hash-format = "sha512"
+hash = "ee7a5a810cc9d94a97fbdfe08fab0364524d00d1a410d8354e5dcd88bd1c9a809ae8492f38d26db224f2fd72c10ad298b6e5e73be2bc8c277f75454e0a5f7d47"
+
+[update]
+[update.modrinth]
+mod-id = "tOoh2eQm"
+version = "9SfGWriU"

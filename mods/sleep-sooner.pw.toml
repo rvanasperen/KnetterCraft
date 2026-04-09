@@ -1,0 +1,13 @@
+name = "Sleep Sooner"
+filename = "sleepsooner-26.1.0-4.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NHjSAFFN/versions/zmwsdtfu/sleepsooner-26.1.0-4.9.jar"
+hash-format = "sha512"
+hash = "dedd6e3a316f84d3b0bba461b3976dfb8a602e18648da20d532ff7adc7bf2025ad5ab7f6ed929f09e2d88bb54751240f7b564425bd3e28d64007218b8bb48b03"
+
+[update]
+[update.modrinth]
+mod-id = "NHjSAFFN"
+version = "zmwsdtfu"

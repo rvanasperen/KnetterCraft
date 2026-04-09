@@ -1,0 +1,13 @@
+name = "Fish On The Line"
+filename = "fishontheline-26.1.0-3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R6PYx1PW/versions/weJ3kSsO/fishontheline-26.1.0-3.5.jar"
+hash-format = "sha512"
+hash = "76c4a1d3f9d18512481bb280def314d20925922b82c9309f3b77eab056ac2bca967f8d981b01dfb3002917ee15bd885e9f14eba415e5a517c28f4bcd64acca39"
+
+[update]
+[update.modrinth]
+mod-id = "R6PYx1PW"
+version = "weJ3kSsO"
