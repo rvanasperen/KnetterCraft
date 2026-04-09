@@ -144,6 +144,11 @@ hash = "6ddba275c652f8f87dbbd91044510318017120948209d16ef1c6407566344511"
 metafile = true
 
 [[files]]
+file = "mods/deimos.pw.toml"
+hash = "608010beaf4624d65c6ae87ed9f9a39f25d91140e5835c33d111590b1d426e4a"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
 hash = "2c7efbe4567d37b260fe41c40331e44eb5466070ed9524f1c12e311623ebe59c"
 metafile = true
@@ -326,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/mooshroom-tweaks.pw.toml"
 hash = "08181904760d86b6acdf087eaa5f18655d0fe3b66ec93421528f440fca8bcf46"
+metafile = true
+
+[[files]]
+file = "mods/more-music-discs.pw.toml"
+hash = "43896a7d795ed32587a89222944840973b35237a6ae1f157bbefb66e9e1c5f00"
 metafile = true
 
 [[files]]
