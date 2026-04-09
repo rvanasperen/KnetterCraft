@@ -264,11 +264,6 @@ hash = "3c11ae9ce54d8a69ae53546934b0853ab29c691024dd33ca36aa90acb82e39f9"
 metafile = true
 
 [[files]]
-file = "mods/guard-villagers.pw.toml"
-hash = "d48656fe125fc0c09de11568946cbc4e66f3d5e888a7c32b70e5e529fbb20205"
-metafile = true
-
-[[files]]
 file = "mods/healing-campfire.pw.toml"
 hash = "26dd56d562ecbbae1a198754f1e6d53adcd377462a2ec58560e6fbd2892f30f0"
 metafile = true
