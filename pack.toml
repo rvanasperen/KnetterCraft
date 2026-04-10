@@ -1,6 +1,6 @@
 name = "KnetterCraft"
 author = "Sharqy"
-version = "26.1-2.dev"
+version = "26.1-2.dev" # note to self: also update 'customWindowTitle' in simplemenu.json5
 pack-format = "packwiz:1.1.0"
 
 [index]
