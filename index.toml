@@ -544,11 +544,6 @@ hash = "ce3c915768f1c4f900049500b6470d3f108fc21a44e83f4b8abf4dc3e9445228"
 metafile = true
 
 [[files]]
-file = "mods/villager-names-serilum.pw.toml"
-hash = "0571c881bd564533ff2d94ce7f21d5a9c08bbe0d751f818f1695e8cb4629f856"
-metafile = true
-
-[[files]]
 file = "mods/voxelmap-updated.pw.toml"
 hash = "c018f8cf71a9d9f458ef5324ce7102f7ce93d0b29cab34f50062f3ef9f5f2d2c"
 metafile = true
