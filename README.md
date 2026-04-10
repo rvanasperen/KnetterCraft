@@ -49,18 +49,18 @@ Every addition in this pack is selected with a clear goal in mind:
 
 - New dungeons and structures to discover.
     - Dungeon Crawl, Dungeons+, Dungeons & Taverns.
-- Improved loot and replayability.
+- Improved multiplayer loot.
     - Lootr.
 - Exploration tools.
-    - Explorer's Compass, Nature's Compass, VoxelMap.
+    - Explorer's Compass, Nature's Compass, VoxelMap, Warpstones.
 
 ### Building
 
 - Large expansion of building blocks.
     - Macaw's Bridges, Roofs, Windows, Doors, and more.
-- Decorative furniture and props
-    - Macaw's Furniture
-- More visual polish through lighting and textures.
+- Decorative furniture and props.
+    - Macaw's Furniture.
+- More visual polish through lighting, textures, and shader pack.
 
 ### Storage & Inventory
 
@@ -86,26 +86,10 @@ A major focus of the pack:
 
 - Better crafting and inventory management.
 - Improved trading, anvils, and enchanting.
+    - Repair anvils using iron ingots.
+    - Veinmining and tree decapitation exist as tool enchantments.
+- Tools and weapons can now be trimmed.
 - Elytra, XP, and durability improvements.
-- Smarter mobs and small gameplay tweaks.
+- UI tweaks.
+- A curated set of non-conflicting keybinds.
 - Dozens of micro-improvements that remove friction.
-
-### Survival & Immersion
-
-- Expanded fishing.
-    - Aquaculture.
-- Improved bees and animals.
-- Campfire mechanics and environmental tweaks.
-- Small details like pet names and villager names.
-
-### Performance & Optimization
-
-This pack is heavily optimized using:
-
-- Sodium, Lithium, FerriteCore.
-- Dynamic FPS, ImmediatelyFast.
-- Culling and rendering optimizations.
-
-Result:
-- Smooth gameplay even with many added features.
-- Suitable for mid-range systems.
