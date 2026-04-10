@@ -85,6 +85,7 @@ Important: This is **utility**, not a tech progression system.
 A major focus of the pack:
 
 - Better crafting and inventory management.
+    - A grave gets erected upon death, allowing you to reclaim your items without stress.
 - Improved trading, anvils, and enchanting.
     - Repair anvils using iron ingots.
     - Veinmining and tree decapitation exist as tool enchantments.
