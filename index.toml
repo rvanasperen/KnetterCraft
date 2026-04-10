@@ -479,6 +479,11 @@ hash = "5d74584406b3bad68af01172a57109c4d906e33427c51324fbd4c93f4c401a7d"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "150af28a1eab3edca272bc1454c1072d89b18f5131afe850125ed39df8b33f1c"
+metafile = true
+
+[[files]]
 file = "mods/skeleton-horse-spawn.pw.toml"
 hash = "e936d2fcd1a37c1afe9e8fa563a7e94772a1d1434e1fb873f521be2a3a302cd3"
 metafile = true
