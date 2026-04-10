@@ -524,11 +524,6 @@ hash = "95b43a62f3ce8b6351e8350238bcd453b22a943aa4baaf728eb6f45f05af57b4"
 metafile = true
 
 [[files]]
-file = "mods/stormies-spiders.pw.toml"
-hash = "224a317b7f105d4971dbbc1eb9fcd976a74412f7ee3d240029d97d15309e0778"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "a0fba4565ea4490e20349d92596886ce32acfd668acd256ceeabe5e9ff5816b9"
 metafile = true
