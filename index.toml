@@ -13,6 +13,10 @@ file = "config/defaultoptions/options.txt"
 hash = "73209d150305bed8537b4dfb2156b91bbbabdb26430ae7b0404c3591d86e675a"
 
 [[files]]
+file = "config/jade/jade.json"
+hash = "1a3ec90ded1dce70793e37505b7a8c025dc116fefc523edbad0a0a9322eb09e5"
+
+[[files]]
 file = "config/jei/jei-mod-id-format.ini"
 hash = "f5ce0b43de011a192dc800495dea16ca9aac9efb01bcc1bd9ac04edff06a5e0f"
 
