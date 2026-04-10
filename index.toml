@@ -22,7 +22,7 @@ hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
 
 [[files]]
 file = "config/simplemenu.json5"
-hash = "401723a4026e06e75c516405427e6be4fdb6d6108e219cb06221694110562e5a"
+hash = "5cbdb7c95bd702aed4909d628a266e81fe8e2a138334d50be37b4609832a21a5"
 
 [[files]]
 file = "config/simplemenu/icon/icon_16x16.png"
@@ -66,11 +66,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "465c5bb547d0b9f87b7573a64f09571d64d3ff43acf2e632f04bd0a6631faf77"
-metafile = true
-
-[[files]]
-file = "mods/aquaculture.pw.toml"
-hash = "96d007c571c688a961286c28188343712d8ed3df68c72786cfdf115b0eb6eaac"
 metafile = true
 
 [[files]]

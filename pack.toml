@@ -1,12 +1,12 @@
 name = "KnetterCraft"
 author = "Sharqy"
-version = "26.1-2.dev" # note to self: also update 'customWindowTitle' in simplemenu.json5
+version = "26.1-2.dev"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "43c0bfd3852d16985811ee0d7cdde8d1b2ac20a185680f2ed9dc2253aee7c70c"
+hash = "70c3a1ec364766a903ee85992dcc347b73277709ed4d1100e502a6a2eb50aacf"
 
 [versions]
 minecraft = "26.1"
