@@ -69,11 +69,6 @@ hash = "465c5bb547d0b9f87b7573a64f09571d64d3ff43acf2e632f04bd0a6631faf77"
 metafile = true
 
 [[files]]
-file = "mods/areas.pw.toml"
-hash = "a886a5baea74cad4839c558213c78c3e549a9ad703cf5b34c9ab578be625d2ea"
-metafile = true
-
-[[files]]
 file = "mods/armor-upgrades.pw.toml"
 hash = "7c642084183aa4f3ae912ba41696937794ef016c657df9e948e6c87b92444c70"
 metafile = true
@@ -444,11 +439,6 @@ hash = "fe5d4d3af6b54e45f748feae434b9cc48956248834c3f348d1dd428611b78235"
 metafile = true
 
 [[files]]
-file = "mods/random-village-names.pw.toml"
-hash = "111c6430e330620ecb0a8595c25cb9d513fa1f8a7f26d2ecfea376266bb90a33"
-metafile = true
-
-[[files]]
 file = "mods/realistic-bees.pw.toml"
 hash = "da510a382e801712756903497f87823d10ab03ffda700d44944d71af02f57c70"
 metafile = true
@@ -456,11 +446,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6812d8e4fe1350478e4c9f5f38546e2c6f1f11dca073566dfbb6f8624d41a3e5"
-metafile = true
-
-[[files]]
-file = "mods/remove-terralith-intro-message.pw.toml"
-hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
 metafile = true
 
 [[files]]
