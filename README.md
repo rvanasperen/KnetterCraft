@@ -60,6 +60,8 @@ Every addition in this pack is selected with a clear goal in mind:
     - Macaw's Bridges, Roofs, Windows, Doors, and more.
 - Decorative furniture and props.
     - Macaw's Furniture.
+- More stonecutting and woodcutting recipes.
+    - MasterCutter.
 - More visual polish through lighting, textures, and shader pack.
 
 ### Storage & Inventory
@@ -67,7 +69,7 @@ Every addition in this pack is selected with a clear goal in mind:
 - Backpacks and portable storage.
     - Sophisticated Backpacks.
 - Expanded storage systems.
-    - Sophisticated Storage, Tom's Simple Storage Mod.
+    - Sophisticated Storage, Tom's Simple Storage.
 - Inventory quality-of-life.
     - Auto-refill, sorting, tweaks.
     - Better tooltips and UI feedback.
@@ -85,10 +87,10 @@ Important: This is **utility**, not a tech progression system.
 A major focus of the pack:
 
 - Better crafting and inventory management.
-    - A grave gets erected upon death, allowing you to reclaim your items without stress.
+- Gravestone gets placed upon death, allowing reclaiming items without stress.
+- Right-click harvest and replant crops (with a hoe).
+- Veinmining and tree decapitation exist as tool enchantments.
 - Improved trading, anvils, and enchanting.
-    - Repair anvils using iron ingots.
-    - Veinmining and tree decapitation exist as tool enchantments.
 - Tools and weapons can now be trimmed.
 - Elytra, XP, and durability improvements.
 - UI tweaks.
