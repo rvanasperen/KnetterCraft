@@ -28,7 +28,7 @@ This also means that you **won't** find:
 - Quest guides or tech trees with predetermined progression.
 - Hundreds of loosely connected mods.
 
-Instead, the focus is on **enhanching what already makes Minecraft great**.
+Instead, the focus is on **enhancing what already makes Minecraft great**.
 
 ## Design Philosophy
 
