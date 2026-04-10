@@ -1,41 +1,111 @@
 ![KnetterCraft](resources/assets/banner_orig.png)
 
-> A lightweight vanilla+ modpack that seeks to enhance the core Minecraft gameplay experience without changing its identity.
+> A polished vanilla+ Minecraft modpack focused on exploration, building, and quality-of-life
 
 ## Highlights
 
-- Expanded building and decoration options
-- Lightweight vanilla-like storage and logistics solutions
-- Quality of life additions without being overpowered early-game
-- Performance-friendly and streamlined
-- Carefully curated mod configurations and keybindings
-- Steam Deck supported
+- Expanded world generation with dungeons, structures, and exploration tools.
+- Extra building blocks and decoration options using vanilla materials.
+- Better inventory, backpacks, and item management.
+- Simple item logistics.
+- Quality-of-life additions.
+- Optimized for smooth performance.
+- Steam Deck support.
 
-## What this modpack is
+## What This Modpack Is
 
-KnetterCraft is designed for players who want *more Minecraft*, not a completely different game.
+KnetterCraft is designed for players who want a **better version of vanilla Minecraft**, not a different game.
 
 This means:
-- Additions feel like they belong in vanilla
-- Systems are intuitive and low-friction
-- Content enhances, rather than replaces, core Minecraft gameplay
+- Additions feel like they belong in vanilla.
+- Systems are intuitive and low-friction.
+- Content enhances, rather than replaces, vanilla Minecraft gameplay.
 
 This also means that you **won't** find:
-- Quest guides or tech trees with predetermined progression
-- Overly complex magic or tech systems
-- Hundreds of loosely connected mods
+- Complex tech mods or factory gameplay.
+- Magic systems.
+- Extra ores, materials, monsters, flora, or fauna.
+- Quest guides or tech trees with predetermined progression.
+- Hundreds of loosely connected mods.
 
-## Design philosophy
+Instead, the focus is on **enhanching what already makes Minecraft great**.
 
-Every mod and feature is selected with a clear goal in mind:
+## Design Philosophy
+
+Every addition in this pack is selected with a clear goal in mind:
 
 - **Vanilla-first**
-    Additions should feel like natural extensions of the base game
-- **Curated, not bloated**
-    Fewer mods, chosen for how well they work together
-- **Meaningful additions**
-    Each feature should solve a problem and add depth, not noise
-- **Low-friction gameplay**
-    No unnecessary grind or complexity barriers
-- **No overpowered early-game**
-    You have to progress and work towards unlocking vein mining, tree harvesting, flight and teleports back to base
+    Additions should feel like natural extensions of the base game.
+- **Quality of quantity**
+    Mods are chosen for how well they integrate, not just what they add.
+- **Reduce friction**
+    Tedious mechanics are improved or removed wherever possible.
+- **Player freedom**
+    No forced progression paths, mandatory systems, or grinds.
+
+## Key Features
+
+### Exploration
+
+- New dungeons and structures to discover.
+    - Dungeon Crawl, Dungeons+, Dungeons & Taverns.
+- Improved loot and replayability.
+    - Lootr.
+- Exploration tools.
+    - Explorer's Compass, Nature's Compass, VoxelMap.
+
+### Building
+
+- Large expansion of building blocks.
+    - Macaw's Bridges, Roofs, Windows, Doors, and more.
+- Decorative furniture and props
+    - Macaw's Furniture
+- More visual polish through lighting and textures.
+
+### Storage & Inventory
+
+- Backpacks and portable storage.
+    - Sophisticated Backpacks.
+- Expanded storage systems.
+    - Sophisticated Storage, Tom's Simple Storage Mod.
+- Inventory quality-of-life.
+    - Auto-refill, sorting, tweaks.
+    - Better tooltips and UI feedback.
+
+### Light Automation
+
+- Simple item transport.
+    - Classic Pipes.
+- Storage integration without complexity.
+
+Important: This is **utility**, not a tech progression system.
+
+### Quality of Life
+
+A major focus of the pack:
+
+- Better crafting and inventory management.
+- Improved trading, anvils, and enchanting.
+- Elytra, XP, and durability improvements.
+- Smarter mobs and small gameplay tweaks.
+- Dozens of micro-improvements that remove friction.
+
+### Survival & Immersion
+
+- Expanded fishing.
+    - Aquaculture.
+- Improved bees and animals.
+- Campfire mechanics and environmental tweaks.
+- Small details like pet names and villager names.
+
+### Performance & Optimization
+
+This pack is heavily optimized using:
+
+- Sodium, Lithium, FerriteCore.
+- Dynamic FPS, ImmediatelyFast.
+- Culling and rendering optimizations.
+
+Result:
+- Smooth gameplay even with many added features.
+- Suitable for mid-range systems.
