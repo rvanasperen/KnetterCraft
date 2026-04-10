@@ -94,11 +94,6 @@ hash = "cc45217af68bc72cf07981414d4b40360aef74f181d30e771a07e5389d996395"
 metafile = true
 
 [[files]]
-file = "mods/better-caravans.pw.toml"
-hash = "46b6ddb7e459cebb02aa1b3f8d10ac6440638b49b1031d6800be323623a23b4e"
-metafile = true
-
-[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "2534b6dcc9aa1332d9f893f08553b32d7d1f721bee5effcd13d5d8292f0ba10b"
 metafile = true
