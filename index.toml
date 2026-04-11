@@ -567,6 +567,11 @@ hash = "c018f8cf71a9d9f458ef5324ce7102f7ce93d0b29cab34f50062f3ef9f5f2d2c"
 metafile = true
 
 [[files]]
+file = "mods/wandering-trader-may-leave.pw.toml"
+hash = "68b9ad4ce280028f22038cf83539d99fbc9e05b41c42a9ff99dfae02692745c6"
+metafile = true
+
+[[files]]
 file = "mods/warpstones.pw.toml"
 hash = "61d56616a1b8256c343998656826b917ada291689834f318167b148c6e264748"
 metafile = true
