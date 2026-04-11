@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "f52baae87b25fd13316a790da63e73c50bd5acf9a81db14585dec2a2cd9adb36"
+hash = "e0721f95d470f8b9ffae4bcb0a53e12c7296e478583ca5da10aa43e7c0f49814"
 metafile = true
 
 [[files]]
