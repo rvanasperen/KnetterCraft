@@ -1,13 +1,13 @@
 name = "Deimos"
-filename = "deimos-26.1.1-neoforge-2.5.jar"
+filename = "deimos-26.1.2-neoforge-2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WQaxNzFg/versions/lWLwdu2J/deimos-26.1.1-neoforge-2.5.jar"
+url = "https://cdn.modrinth.com/data/WQaxNzFg/versions/4trenLvL/deimos-26.1.2-neoforge-2.5.jar"
 hash-format = "sha512"
-hash = "323d544724f91e107cbd56f36a1be68ada84cb652100f3c5ee09134ca188af163e9a0d1947510ec19195fde46829bdc65c0f0a17bc138ac271fb5e2b7355c1ff"
+hash = "eb583a9f0a01df1b039c2c66762c58338fcb726081275ec47659453002299f911c67169736ff9ba11f2f3abeb93919410dfa9edf211a538570c79f2442b94211"
 
 [update]
 [update.modrinth]
 mod-id = "WQaxNzFg"
-version = "lWLwdu2J"
+version = "4trenLvL"
