@@ -468,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/scribble.pw.toml"
-hash = "d047275a3f11b7bb6f46e477e3c99e251c2e59686d1562cf13b2e343fd8f7402"
+hash = "6b1f921e65668d5fb60a0c0e0a679ce3d39a2bf96f06e0f000769ddc4c5697d6"
 metafile = true
 
 [[files]]
