@@ -10,7 +10,7 @@ hash = "ccc761156a6af4053b9d9894648cd9369c91555390c01e3f4e6296823a058f7f"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "73209d150305bed8537b4dfb2156b91bbbabdb26430ae7b0404c3591d86e675a"
+hash = "7a4ce8fa7419f99d8307cf380d52bd8db6d3fe081eeb9c852789c2ffd207f5b2"
 
 [[files]]
 file = "config/jade/jade.json"
