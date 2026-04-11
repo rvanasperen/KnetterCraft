@@ -1,13 +1,13 @@
 name = "More Music Discs"
-filename = "morediscs-26.1.1-neoforge-35.1.jar"
+filename = "morediscs-26.1.2-neoforge-35.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pXYChc1a/versions/px0hZ3VQ/morediscs-26.1.1-neoforge-35.1.jar"
+url = "https://cdn.modrinth.com/data/pXYChc1a/versions/fSYAB1IL/morediscs-26.1.2-neoforge-35.1.jar"
 hash-format = "sha512"
-hash = "0e08bb9340bb09e00829b97c7ec53df26b311a8025adc9efc02c9244f90adf80a4606304d7c56946568d5803facbf7fbff2dc209c0493d44c93f9949897d03c2"
+hash = "d81ff900eafc86a8b7733aab3d7a5d01de733ab146b51d81001b27064a877a9339e7d128e5d760edd84b19aaedfe30a4caea4443d562d7ac346d548f18b5b7b8"
 
 [update]
 [update.modrinth]
 mod-id = "pXYChc1a"
-version = "px0hZ3VQ"
+version = "fSYAB1IL"
